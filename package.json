@@ -1,0 +1,25 @@
+{
+  "name": "webapppra",
+  "version": "1.0.0",
+  "description": "this is a web app for practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReturntoZero/BootstrapPra.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Bevis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReturntoZero/BootstrapPra/issues"
+  },
+  "homepage": "https://github.com/ReturntoZero/BootstrapPra#readme",
+  "devDependencies": {
+    "bower": "^1.5.3"
+  }
+}
